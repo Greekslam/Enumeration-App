@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className='h-screen p-6 flex justify-center items-center'>
-        <h1>Coming Soon...</h1>
+        <h1 className='text-xl'>Coming Soon...</h1>
       </main>
     </>
   )
